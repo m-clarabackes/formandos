@@ -7,17 +7,17 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.6;
-    background-color: rgb(228, 223, 217);
+    background-color: rgb(248, 188, 221);
 }
 
 .cabeçalho {
     width: 80%;
-    margin: o auto;
+    margin: 0 auto;
 }
 
 header {
     background: black;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 170);
     padding: 10px 0;
 
 }
@@ -35,7 +35,7 @@ nav ul {
     display: flex;
     justify-content: center;
     list-style: disc;
-    color: #a04f62;
+    color: #ec05ba;
 }
 
 nav ul li {
@@ -43,7 +43,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #a04f62;
+    color: #72024d;
     text-decoration: underline;
     font-size: 1.2rem;
 }
